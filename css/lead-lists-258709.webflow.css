@@ -25,18 +25,6 @@
   --_ui-styles---radius--large: 16px;
   --color-scheme-1--accent: var(--_primitives---colors--white);
   --_ui-styles---stroke--divider-width: 1px;
-  --_primitives---colors--dodger-blue-lighter: #d6e9ff;
-  --_primitives---colors--dodger-blue-lightest: #eaf4ff;
-  --_primitives---colors--dodger-blue-light: #71b3ff;
-  --_primitives---colors--dodger-blue-darker: #153a66;
-  --_primitives---colors--dodger-blue-darkest: #0f2c4c;
-  --_primitives---colors--prussian-blue-lightest: #e5e9ec;
-  --_primitives---colors--prussian-blue-lighter: #ccd3d9;
-  --_primitives---colors--prussian-blue-light: #4c667c;
-  --_primitives---colors--prussian-blue: #002545;
-  --_primitives---colors--prussian-blue-darker: #000e1b;
-  --_primitives---colors--prussian-blue-dark: #001d37;
-  --_primitives---colors--prussian-blue-darkest: #000b14;
   --_primitives---colors--neutral-lightest: #f2f2f2;
   --_primitives---colors--neutral-light: #b2b3b3;
   --_primitives---colors--neutral: #7f8081;
@@ -52,6 +40,18 @@
   --_primitives---opacity--neutral-darkest-30: #0002034d;
   --_primitives---opacity--neutral-darkest-40: #00020366;
   --_primitives---opacity--neutral-darkest-50: #00020380;
+  --_primitives---colors--dodger-blue-lighter: #d6e9ff;
+  --_primitives---colors--dodger-blue-lightest: #eaf4ff;
+  --_primitives---colors--dodger-blue-light: #71b3ff;
+  --_primitives---colors--dodger-blue-darker: #153a66;
+  --_primitives---colors--dodger-blue-darkest: #0f2c4c;
+  --_primitives---colors--prussian-blue-lightest: #e5e9ec;
+  --_primitives---colors--prussian-blue-lighter: #ccd3d9;
+  --_primitives---colors--prussian-blue-light: #4c667c;
+  --_primitives---colors--prussian-blue: #002545;
+  --_primitives---colors--prussian-blue-darker: #000e1b;
+  --_primitives---colors--prussian-blue-dark: #001d37;
+  --_primitives---colors--prussian-blue-darkest: #000b14;
   --base-color-neutral--neutral-lightest\<deleted\|relume-variable-color-neutral-3\>: #eee;
   --base-color-neutral--black\<deleted\|relume-variable-color-neutral-1\>: black;
 }
